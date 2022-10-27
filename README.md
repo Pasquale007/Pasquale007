@@ -1,8 +1,7 @@
-- 👋 Hi, I’m Pascal-
-- 👀 I’m interested in Coding, small projects.
-- 🌱 I’m currently learning a lot.
-- 💞️ I’m looking to collaborate on everything.
-- 📫 How to reach me Pascal0707@gmx.de
+Hi am a Pascal, a coder from Germany.
+I am currently into Webdevelopment with common frameworks
+(Angular, React) and some backend with python. 
+I like to work on smaller projects with big influence. 
 <!-- sure?--->
 <!---
 Pasquale007/Pasquale007 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
