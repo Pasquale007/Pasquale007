@@ -14,6 +14,14 @@ I want to make the diffrence in bigger or smaller projects.
 ## Drop me a message
 - E-Mail: [pascal0707@gmx.de](mailto:pascal0707@gmx.de)
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/pascal-thurow-47b39921a/)
+
+<details>
+<summary>:eyes: Show stats</summary>
+  
+![Pascal GitHub stats](https://github-readme-stats.vercel.app/api?username=Pasquale007&show_icons=true&theme=transparent)
+
+</details>
+
 <!-- sure?--->
 <!---
 Pasquale007/Pasquale007 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
