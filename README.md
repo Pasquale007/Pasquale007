@@ -1,4 +1,4 @@
-# Hi I'm Pascal
+# Hi I'm Pascal - Softwareentwickler | Fullstack-Entwicklung
 ## About me
 Hi I am a Pascal, I'm a software developer from Germany.
 I am a Fullstack developer and familiar with the common frontend frameworks like Angular or React and some backend with python, Node.js, express,... 
@@ -12,7 +12,8 @@ I want to make the diffrence in bigger or smaller projects.
 - PHP
 
 ## Drop me a message
-E-Mail: [Pascal0707@gmx.de](mailto:pascal0707@gmx.de)
+- E-Mail: [pascal0707@gmx.de](mailto:pascal0707@gmx.de)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/pascal-thurow-47b39921a/))
 <!-- sure?--->
 <!---
 Pasquale007/Pasquale007 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
