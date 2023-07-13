@@ -1,8 +1,18 @@
-Hi am a Pascal, a coder from Germany.
-I am currently into Webdevelopment with common frameworks
-(Angular, React) and some backend with python. 
-I like to work on smaller projects with big influence. 
-EMail: Pascal0707@gmx.de
+# Hi I'm Pascal
+## About me
+Hi I am a Pascal, I'm a software developer from Germany.
+I am a Fullstack developer and familiar with the common frontend frameworks like Angular or React and some backend with python, Node.js, express,... 
+I want to make the diffrence in bigger or smaller projects.
+
+## My Programming languages
+- TypeScript
+- JavaScript
+- Python
+- Java
+- PHP
+
+## Drop me a message
+E-Mail: [Pascal0707@gmx.de](mailto:pascal0707@gmx.de)
 <!-- sure?--->
 <!---
 Pasquale007/Pasquale007 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
